@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.8.1",
+  "Mac" : [
+    {
+      "name" : "SimpleKeychain",
+      "hash" : "123f729db86afed136709b9d061baa12e8a7ed3e600fe48129c4f970dadc1e86"
+    }
+  ]
+}

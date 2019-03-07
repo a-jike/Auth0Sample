@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.14.1",
+  "Mac" : [
+    {
+      "name" : "Auth0",
+      "hash" : "3e0ddd3df957b4ac1c62c48b9fc0feea809f4c4dafa7ce76957c8664cc6e22c7"
+    }
+  ]
+}
